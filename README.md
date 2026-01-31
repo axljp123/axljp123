@@ -33,6 +33,5 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona transfor
 - 💼 Buscando oportunidades como **Junior Developer / Freelance**.
 - ✉️ jeanpaul.axl@gmail.com
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=axljp123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 📊 Mis Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axljp123&layout=compact&theme=tokyonight&hide_border=true)
