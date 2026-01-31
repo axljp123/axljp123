@@ -33,5 +33,14 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**. Me apasiona transfor
 - 💼 Buscando oportunidades como **Junior Developer / Freelance**.
 - ✉️ jeanpaul.axl@gmail.com
 
-### 📊 Mis Estadísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axljp123&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 Nivel de Formación & Skills
+Actualmente desarrollando mis habilidades técnicas en el grado de **DAW**.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+> **Nota:** Las estadísticas automáticas se activarán tras mis primeros commits en proyectos públicos.
